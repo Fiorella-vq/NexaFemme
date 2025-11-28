@@ -1,10 +1,4 @@
-/*
-    home.css: This website contains selectors only used in home.css
-
-    All pages share the styles on index.css but you should create 
-    one more css for each page that will contain the selected used 
-    on that page only (the ones not reused in other pages).
-*/body {
+body {
   margin: 0;
   font-family: "Poppins", sans-serif;
   background: radial-gradient(circle at top, #1b1330 0, #08060b 50%, #000000 100%);
